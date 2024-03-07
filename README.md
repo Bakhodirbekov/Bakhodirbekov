@@ -24,3 +24,6 @@
     <a href="https://www.linkedin.com/in/abdulaziz-abdusattorov-3a238b21a/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
     <a href="https://behance.net/abdulazabdusat1"><img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white"/></a>
 </div>
+
+
+<img alt="вклад github в анимацию змеи" src="/uzsoftic/uzsoftic/raw/main/github-contribution-grid-snake.svg" style="max-width: 100%;">
