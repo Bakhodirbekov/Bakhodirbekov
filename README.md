@@ -22,5 +22,5 @@
     <a href=""><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
     <a href="https://www.facebook.com/otabek.otabek.7792?mibextid=opq0tG"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/mc-otaw-a35ba11b9"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
-    <a href="https://behance.net/abdulazabdusat1"><img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white"/></a>
+    <a href="https://itdoctor.uz"><img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white"/></a>
 </div>
