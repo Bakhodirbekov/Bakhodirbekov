@@ -24,7 +24,6 @@
 <div align="center" dir="auto"> 
  <a target="_blank" rel="noopener noreferrer" href="/uzsoftic/uzsoftic/blob/main/github-contribution-grid-snake.svg"><img alt="github contribution snake animation" src="/uzsoftic/uzsoftic/raw/main/github-contribution-grid-snake.svg" style="max-width: 100%;"></a>
 </div>
-
 ## 🌐 Socials:
 <div align="center"> 
     <a href=""><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
