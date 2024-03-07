@@ -1,5 +1,5 @@
-<a class="Link--secondary no-underline no-wrap" href="https://github.com/Bakhodirbekov?tab=following">
-          <span class="text-bold color-fg-default"><font style="vertical-align: inherit;"></font></span><font style="vertical-align: inherit;"></font></a>
+<p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/atwebuz/count.svg" /> </p>
+
 <p align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
     <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
@@ -15,6 +15,8 @@
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="36" height="36"/> </a> 
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgres" width="36" height="36"/> </a> 
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="36" height="36"/> </a>
+    <a href="https://www.dartlang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="36" height="36"/> </a>
+    <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="36" height="36"/> </a>
 </p>
 
 ## 🌐 Socials:
@@ -24,6 +26,4 @@
     <a href="https://www.linkedin.com/in/abdulaziz-abdusattorov-3a238b21a/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
     <a href="https://behance.net/abdulazabdusat1"><img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white"/></a>
 </div>
-
-
-<img alt="вклад github в анимацию змеи" src="/uzsoftic/uzsoftic/raw/main/github-contribution-grid-snake.svg" style="max-width: 100%;">
+``
