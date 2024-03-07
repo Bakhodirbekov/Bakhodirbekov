@@ -15,8 +15,8 @@
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="36" height="36"/> </a> 
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgres" width="36" height="36"/> </a> 
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="36" height="36"/> </a>
-    <a href="https://www.dartlang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="36" height="36"/> </a>
-    <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="36" height="36"/> </a>
+    <a href="https://core.telegram.org/bots/api" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-512/telegram-3-226554.png" alt="telegram" width="36" height="36"/> </a>
+    <a href="https://www.binance.com/en" target="_blank" rel="noreferrer"> <img src="https://cryptologos.cc/logos/binance-coin-bnb-logo.png" alt="binance" width="36" height="36"/> </a>
 </p>
 
 ## 🌐 Socials:
@@ -26,4 +26,3 @@
     <a href="https://www.linkedin.com/in/abdulaziz-abdusattorov-3a238b21a/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
     <a href="https://behance.net/abdulazabdusat1"><img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white"/></a>
 </div>
-``
