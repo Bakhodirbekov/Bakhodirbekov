@@ -29,3 +29,7 @@
     <a href="https://www.linkedin.com/in/mc-otaw-a35ba11b9"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
     <a href="https://itdoctor.uz"><img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white"/></a>
 </div>
+
+
+
+<img width="100%" src="https://camo.githubusercontent.com/c66235b8ce5917181ae21327d19696e716710ace0a4495ac4f8c998d825332b3/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303062666266266865696768743d3132302673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=00bfbf&amp;height=120&amp;section=footer" style="max-width: 100%;">
