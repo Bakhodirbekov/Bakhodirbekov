@@ -1,20 +1,3 @@
-<div class="surat">
-  <img src="bakhodirbekov_otabek.jpg" alt="Bakhodirbekov Otabek" />
-</div>
-
-.surat {
-  width: 200px; /* Suratning eng, bo'yligi */
-  height: auto; /* Suratning balandligi */
-  border: 1px solid black; /* Chegaralar */
-  padding: 10px; /* Tugmachalar */
-}
-.surat img {
-  width: 100%; /* Tugmachalar bilan bir xil bo'lgani */
-  height: auto; /* Suratning tushishi */
-  display: block; /* Blok elementiga aylanadi */
-}
-
-
 
 
 <p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/Bakhodirbekov/count.svg" /> </p>
