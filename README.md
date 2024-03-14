@@ -1,4 +1,7 @@
 
+<img src="https://camo.githubusercontent.com/50b2c612b1397c891637fe7c3dcca6e9ab8e2fcb7e1058bc8da7e2c1d9d318da/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f73697a653d33302663656e7465723d74727565267643656e7465723d747275652677696474683d31323030266865696768743d313530266c696e65733d49276d2b5765622b646576656c6f7065723b49276d2b5765622b64657369676e65723b49276d2b4d6f62696c652b646576656c6f7065723b49276d2b554925324655582b64657369676e6572" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.herokuapp.com?size=30&amp;center=true&amp;vCenter=true&amp;width=1200&amp;height=150&amp;lines=I'm+Web+developer;I'm+Web+designer;I'm+Mobile+developer;I'm+UI%2FUX+designer" style="max-width: 100%;">
+
+
 
 <p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/Bakhodirbekov/count.svg" /> </p>
 
