@@ -39,7 +39,36 @@ I love creating beautiful UIs and solving complex backend challenges.
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Python
+
+<template>
+  <div class="w-52 h-52 bg-slate-900 rounded-2xl relative overflow-hidden mx-auto mt-10">
+    <div class="w-5 h-5 bg-cyan-400 rounded absolute animate-snake"></div>
+  </div>
+</template>
+
+<script>
+export default {
+  name: "SnakeAnimation",
+};
+</script>
+
+<style scoped>
+@keyframes snake {
+  0%   { top: 0; left: 0; }
+  25%  { top: 0; left: 13rem; }
+  50%  { top: 13rem; left: 13rem; }
+  75%  { top: 13rem; left: 0; }
+  100% { top: 0; left: 0; }
+}
+
+.animate-snake {
+  animation: snake 4s linear infinite;
+  position: absolute;
+  border-radius: 0.3125rem; /* Tailwind 'rounded' */
+}
+</style>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg" />
