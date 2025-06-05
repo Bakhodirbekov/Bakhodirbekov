@@ -70,17 +70,20 @@ I love building web and mobile apps with **React**, **Node.js**, **Python**, and
 </p>
 
 ---
+
+
+
+
+## 🛠️ Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" alt="Skills 1" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" alt="Skills 2" />
+</p>
 <!-- Footer Animation -->
 <p align="center">
   <img src="https://media.giphy.com/media/l0HlGma77sc2aMgg0/giphy.gif" alt="Fire Footer" />
 </p>
 
-<!-- Footer -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="40" alt="Laravel" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" alt="Vue.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" alt="Tailwind CSS" />
-</p>
 
 <!-- Footer Animation -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120§ion=footer"/>
