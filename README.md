@@ -39,6 +39,15 @@ I love creating beautiful UIs and solving complex backend challenges.
 
 ---
 
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake.svg" />
+  <img alt="GitHub Snake" src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake.svg" />
+</picture>
+
+
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
