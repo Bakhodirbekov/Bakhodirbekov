@@ -39,6 +39,20 @@ I love building web and mobile apps with **React**, **Node.js**, **Python**, and
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical" alt="Contribution Streak" />
 </p>
 
+## 📈 My Career Path
+Below is a timeline of my career journey from the start to the present:
+
+```mermaid
+gantt
+    title My Career Path (2018 - 2025)
+    dateFormat  YYYY-MM
+    section Career Milestones
+    Junior Developer (HTML, CSS, JS)      :done, 2018-06, 2020-06
+    Frontend Developer (React, Vue.js)    :done, 2020-07, 2022-06
+    Full-Stack Developer (Node.js, Python):done, 2022-07, 2024-06
+    Senior Developer (Docker, AWS)        :active, 2024-07, 2025-06
+    Learning Cloud & DevOps               :active, 2025-01, 2025-06
+
 ---
 
 ## 🌐 Connect with Me
