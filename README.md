@@ -21,7 +21,6 @@ I love building web and mobile apps with **React**, **Node.js**, **Python**, and
 ---
 
 ## 🛠️ Skills
-## 🛠️ Skills
 <p align="center">
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="HTML5" /></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="CSS3" /></a>
