@@ -71,10 +71,9 @@ I love building web and mobile apps with **React**, **Node.js**, **Python**, and
 
 ---
 <!-- Footer Animation -->
-<img src="https://capsule-render.vercel.app/api?type=curved&color=00bfbf&height=120§ion=footer"/>
-
-<!-- Footer Animation -->
-<img src="https://capsule-render.vercel.app/api?type=fire&color=ff4500&height=120§ion=footer"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlGma77sc2aMgg0/giphy.gif" alt="Fire Footer" />
+</p>
 
 <!-- Footer Animation -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120§ion=footer"/>
