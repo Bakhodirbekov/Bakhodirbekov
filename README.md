@@ -59,20 +59,3 @@ I love building web and mobile apps with **React**, **Node.js**, **Python**, and
 
 <!-- Footer Animation -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120§ion=footer"/>
-## 📈 My Career Path
-Below is a timeline of my career journey from the start to June 2025:
-
-```mermaid
-gantt
-    title My Career Journey (2018 - 2025)
-    dateFormat  YYYY-MM-DD
-    axisFormat  %Y-%m
-    section Career Milestones
-        Junior Developer (HTML, CSS, JS)    :done, 2018-06-01, 2020-06-30, 1e6f, #ffcccc
-        Frontend Developer (React, Vue.js)  :done, 2020-07-01, 2022-06-30, 1e6f, #ccffcc
-        Full-Stack Developer (Node.js, Python) :done, 2022-07-01, 2024-06-30, 1e6f, #cce5ff
-        Senior Developer (Docker, AWS)      :active, 2024-07-01, 2025-06-05, 1e6f, #ffffcc
-    section Learning & Growth
-        Exploring Cloud & DevOps            :active, 2025-01-01, 2025-06-05, 1e6f, #ffebcc
----
-
