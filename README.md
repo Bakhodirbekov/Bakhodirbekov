@@ -1,92 +1,58 @@
 <!-- Animated Typing Title -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=1000&height=80&lines=I'm+Web+Developer;I'm+UI%2FUX+Designer;I'm+Mobile+Developer;Welcome+to+my+GitHub!+🔥" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30¢er=true&vCenter=true&width=1000&height=80&lines=I'm+YourName;Full-Stack+Developer;Welcome+to+My+GitHub!+🌟" alt="Typing SVG" />
 </p>
 
 <!-- Visitor Count -->
 <p align="center">
-  Visitor Count<br>
-  <img src="https://profile-counter.glitch.me/Bakhodirbekov/count.svg" />
+  <img src="https://profile-counter.glitch.me/YourUsername/count.svg" alt="Visitor Count" />
 </p>
 
-<!-- Skills Icons -->
-<h2 align="center">🛠️ My Skills</h2>
+---
+
+## 👋 About Me
+Hi! I’m **YourName**, a passionate full-stack developer from YourCountry 🇺🇿.  
+I love building web and mobile apps with **React**, **Node.js**, **Python**, and more!  
+- 🔭 Currently working on: `Your Project Name`  
+- 🌱 Learning: Docker, AWS, UI/UX Design  
+- 💬 Ask me about: React, Node.js, Python  
+- ⚡ Fun fact: I enjoy coding with a cup of tea! ☕
+
+---
+
+## 🛠️ Skills
 <p align="center">
-  <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" alt="HTML5" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" alt="CSS3" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" alt="Bootstrap" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="40" alt="Tailwind" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" alt="JavaScript" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" alt="Vue.js" /></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL" /></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40" alt="PostgreSQL" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux" /></a>
-  <a href="#"><img src="https://cdn.iconscout.com/icon/free/png-512/telegram-3-226554.png" width="40" alt="Telegram Bot API" /></a>
-  <a href="#"><img src="https://cryptologos.cc/logos/binance-coin-bnb-logo.png" width="40" alt="Binance" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" alt="React" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" alt="Node.js" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="HTML5" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="CSS3" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" alt="Docker" /></a>
 </p>
 
 ---
 
-## 🚀 About Me
-Hi! 👋 I'm **Bakhodirbekov**, a passionate full-stack developer from Uzbekistan 🇺🇿.  
-I specialize in **Vue.js**, **Tailwind CSS**, **Python**, and **Telegram Bot Development**.  
-I love creating beautiful UIs and solving complex backend challenges.
+## ⚡ Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
-- 🎯 Currently working on: `Game Case Batuule` 🎮  
-- 💬 Ask me about: Vue, Tailwind, Telegram Bots, Python  
-- 📬 How to reach me: see social links below 👇
+## 📊 Contributions
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical" alt="Contribution Streak" />
+</p>
 
 ---
-
-## 🐍 Python
-
-<template>
-  <div class="w-52 h-52 bg-slate-900 rounded-2xl relative overflow-hidden mx-auto mt-10">
-    <div class="w-5 h-5 bg-cyan-400 rounded absolute animate-snake"></div>
-  </div>
-</template>
-
-<script>
-export default {
-  name: "SnakeAnimation",
-};
-</script>
-
-<style scoped>
-@keyframes snake {
-  0%   { top: 0; left: 0; }
-  25%  { top: 0; left: 13rem; }
-  50%  { top: 13rem; left: 13rem; }
-  75%  { top: 13rem; left: 0; }
-  100% { top: 0; left: 0; }
-}
-
-.animate-snake {
-  animation: snake 4s linear infinite;
-  position: absolute;
-  border-radius: 0.3125rem; /* Tailwind 'rounded' */
-}
-</style>
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake.svg" />
-  <img alt="GitHub Snake" src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake.svg" />
-</picture>
-
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.facebook.com/otabek.otabek.7792?mibextid=opq0tG"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/mc-otaw-a35ba11b9"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://itdoctor.uz"><img src="https://img.shields.io/badge/Portfolio-1769ff?style=for-the-badge&logo=behance&logoColor=white"/></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 ---
 
 <!-- Footer Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120§ion=footer"/>
