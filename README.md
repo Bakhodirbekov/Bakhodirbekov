@@ -13,7 +13,7 @@
 <!-- Tetris Game -->
 <p align="center">
   <a href="https://tetris.com" target="_blank">
-    <img src="https://img.shields.io/badge/Play-Tetris-blue?style=for-the-badge" alt="Play Tetris" />
+    <img src="https://bot-e-commers.netlify.app/?style=for-the-badge" alt="OneBazar" />
   </a>
 </p>
 
