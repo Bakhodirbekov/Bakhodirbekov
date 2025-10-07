@@ -5,7 +5,7 @@
 
 <!-- Visitor Count -->
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Bakhodirbekov/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/Bakhodirbekov/count.svg" alt="Profilga tashrif buyuruvchilar soni" />
 </p>
 
 ---
