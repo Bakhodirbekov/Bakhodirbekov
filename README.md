@@ -10,10 +10,10 @@
 
 ---
 
-<!-- Tetris Game -->
+<!-- OneBazar Project -->
 <p align="center">
-  <a href="https://tetris.com" target="_blank">
-    <img src="https://bot-e-commers.netlify.app/?style=for-the-badge" alt="OneBazar" />
+  <a href="https://bot-e-commers.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/OneBazar-Visit%20Now-blue?style=for-the-badge" alt="OneBazar Project" />
   </a>
 </p>
 
