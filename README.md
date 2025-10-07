@@ -10,9 +10,11 @@
 
 ---
 
-<!-- Snake Animation -->
+<!-- Tetris Game -->
 <p align="center">
-  <img src="https://github.com/Bakhodirbekov/Bakhodirbekov/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <a href="https://tetris.com" target="_blank">
+    <img src="https://img.shields.io/badge/Play-Tetris-blue?style=for-the-badge" alt="Play Tetris" />
+  </a>
 </p>
 
 ## 👋 About Me
