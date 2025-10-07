@@ -10,6 +10,11 @@
 
 ---
 
+<!-- Achievements -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Bakhodirbekov&theme=juicyfresh" alt="GitHub Achievements" />
+</p>
+
 ## 👋 About Me
 Hi! I’m Bakhodirbekov, a passionate full-stack developer from Uzbekistan 🇺🇿.  
 I love building web and mobile apps with React, Node.js, Python, and more!  
