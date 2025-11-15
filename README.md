@@ -31,7 +31,7 @@ I love building web and mobile apps with React, Node.js, Python, and more!
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" alt="Skills 1" />
   <br />
-  <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" alt="Skills 2" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python,flatter,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" alt="Skills 2" />
 </p>
 
 ---
