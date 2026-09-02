@@ -1,189 +1,80 @@
-<!-- =========================
-     BAKHODIRBEKOV — GITHUB PROFILE
-     ========================= -->
-
-<!-- Hero / Typing -->
-
+<!-- Header: Animated typing + name -->
 <p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&height=80&lines=I'm+Bakhodirbekov;Full-Stack+Developer;React+%7C+Node.js+%7C+Python;Building+modern+web+applications;Welcome+to+my+GitHub!+%F0%9F%8C%9F"
-    alt="Typing SVG"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&center=true&vCenter=true&width=1000&height=90&lines=I'm+Bakhodirbekov;Full-Stack+Developer;Welcome+to+My+GitHub!+🌟" alt="Typing SVG" />
 </p>
 
-<!-- Profile links / badges -->
-
+<!-- Quick badges row -->
 <p align="center">
-  <a href="https://bot-e-commers.netlify.app">
-    <img src="https://img.shields.io/badge/OneBazar-Visit%20Now-238636?style=for-the-badge&logo=google-chrome&logoColor=white" alt="OneBazar" />
+  <a href="https://bot-e-commers.netlify.app" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/OneBazar-Visit%20Now-blue?style=for-the-badge" alt="OneBazar Project" />
   </a>
-  <a href="https://github.com/Bakhodirbekov">
-    <img src="https://img.shields.io/badge/GitHub-Bakhodirbekov-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <img src="https://img.shields.io/badge/Location-Uzbekistan-0052cc?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2EA043?style=for-the-badge" alt="Open to Work" />
+  <img src="https://img.shields.io/badge/Location-Uzbekistan-0052cc?style=for-the-badge" alt="Location" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-green?style=for-the-badge" alt="Open to work" />
 </p>
 
-<!-- Visitor counter -->
-
+<!-- Visitor counter (optional) -->
 <p align="center">
-  <img
-    src="https://profile-counter.glitch.me/Bakhodirbekov/count.svg"
-    alt="Profile Visitors"
-  />
+  <img src="https://profile-counter.glitch.me/Bakhodirbekov/count.svg" alt="Profilga tashrif buyuruvchilar soni" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 Salom! — Men kimman?
+Men **Bakhodirbekov** — Full-Stack developer (React, Node.js, Python). O‘zbekistonlikman 🇺🇿.  
+Veb va mobil ilovalar yaratishni yaxshi ko‘raman.
 
-```text
-Hello! I'm Bakhodirbekov 👋
-
-I'm a Full-Stack Developer focused on building
-modern, scalable and user-friendly applications.
-
-I enjoy turning ideas into real products using
-modern frontend, backend and automation technologies.
-```
-
-### 🚀 What I'm doing
-
-* 🔭 Working on **web applications and automation projects**
-* 🌱 Learning **Docker, AWS & UI/UX**
-* 💡 Interested in **AI, automation, SaaS and e-commerce**
-* 💬 Ask me about **React, Node.js, Python**
-* ⚡ Fun fact: **I write better code with coffee ☕**
+- 🔭 Hozir ishlayapman: *My Awesome Project*  
+- 🌱 O‘rganayapman: Docker, AWS, UI/UX Design  
+- 💬 So‘rashingiz mumkin: React, Node.js, Python  
+- ⚡ Qiziq fakt: kod yozishni choy bilan yaxshi ko‘raman ☕️
 
 ---
 
-## 🧰 Tech Stack
-
-### Frontend
-
+## 🛠 Texnologiyalar & Ko‘nikmalar
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,mui,javascript,typescript,figma&perline=10" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" alt="Frontend skills" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=nodejs,python,flutter,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" alt="Backend & others" />
 </p>
 
-### Backend
+> Eslatma: agar qator juda uzun bo‘lsa, uni ikkiga bo‘lib ko‘rsatish yoki GIF/PNG ikonalar bilan almashtirish mumkin.
 
+---
+
+## ⚡ GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bakhodirbekov&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bakhodirbekov&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+## 📊 Contributions
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,php,laravel,mysql,mongodb,postgresql,firebase&perline=10" alt="Backend Skills" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bakhodirbekov&theme=radical" alt="Contribution Streak" />
 </p>
 
-### Tools & Other
-
+## 🏆 Trophies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,postman,c,java,flutter&perline=9" alt="Tools and Other Skills" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Bakhodirbekov&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 🌐 Mening loyihalarim (tanlangan)
+- **OneBazar** — Bot orqali e-commerce demo. 🔗 [Demo sayt](https://bot-e-commers.netlify.app)  
+- *Qo‘shimcha loyihalarni shu yerga joylang (GitHub repo linklari bilan).*
 
+---
+
+## 📫 Bog‘lanish
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Bakhodirbekov&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark"
-    height="180"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bakhodirbekov&layout=compact&hide_border=true&theme=github_dark"
-    height="180"
-    alt="Top Languages"
-  />
+  <a href="mailto:bakhodirbekov@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://yourportfolio.com" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 ---
 
-## 🔥 Contribution Streak
-
+<!-- Subtle footer -->
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Bakhodirbekov&hide_border=true&theme=github-dark-blue"
-    alt="GitHub Streak"
-  />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Bakhodirbekov&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1"
-    alt="GitHub Trophies"
-  />
-</p>
-
----
-
-## 🚀 Featured Project
-
-<table>
-<tr>
-<td width="50%">
-
-### 🛒 OneBazar
-
-E-commerce demo project with a modern interface and bot integration.
-
-**Tech:**
-`HTML` `CSS` `JavaScript`
-
-🔗 [Open OneBazar](https://bot-e-commers.netlify.app)
-
-</td>
-
-<td width="50%">
-
-### 💻 GitHub
-
-Explore my repositories, experiments, automation projects and development work.
-
-🔗 [github.com/Bakhodirbekov](https://github.com/Bakhodirbekov)
-
-</td>
-</tr>
-</table>
-
----
-
-## 📈 Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Bakhodirbekov&hide_border=true&theme=github-compact"
-    alt="GitHub Activity Graph"
-  />
-</p>
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/Bakhodirbekov">
-    <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/yourusername">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:bakhodirbekov@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:21262d&height=100&section=footer" width="100%" />
-</p>
-
-<p align="center">
-  <strong>Thanks for visiting my profile! 🚀</strong>
-</p>
-
-<p align="center">
-  <sub>Made with ❤️ by Bakhodirbekov</sub>
+  <small>Made with ❤️ by <strong>Bakhodirbekov</strong>. Want to collaborate? DM me!</small>
 </p>
