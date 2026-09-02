@@ -1,208 +1,225 @@
-<!-- ========================================================= -->
+<!-- =============================================================== -->
 
-<!--        BAKHODIRBEKOV // CYBERPUNK DEVELOPER 2098         -->
+<!--                 BAKHODIRBEKOV // MATRIX-2098                   -->
 
-<!-- ========================================================= -->
+<!--         CYBERPUNK + MATRIX + HACKER TERMINAL PROFILE            -->
+
+<!-- =============================================================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&text=BAKHODIRBEKOV&fontSize=42&fontColor=00FFF7&fontAlignY=35&desc=FULL-STACK%20DEVELOPER%20%2F%2F%20CYBER%20SYSTEM%20BUILDER&descSize=16&descAlignY=60&color=0:020408,50:07111C,100:16002B&animation=twinkling" width="100%"/>
+<!-- MATRIX / CYBER TOP BORDER -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=header&text=&fontSize=0&color=0:000000,35:001100,70:003300,100:00ff41&animation=twinkling" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=25&duration=1800&pause=500&color=00FFF7&center=true&vCenter=true&width=1000&height=70&lines=%3E%3E+ACCESS+GRANTED;%3E%3E+BAKHODIRBEKOV;%3E%3E+FULL-STACK+DEVELOPER;%3E%3E+CYBER+SYSTEM+BUILDER;%3E%3E+REACT+%7C+NODE.JS+%7C+PYTHON;%3E%3E+WELCOME+TO+THE+GRID" alt="Typing Animation"/>
+<!-- MAIN TERMINAL TITLE -->
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=36&duration=1200&pause=300&color=00FF41&center=true&vCenter=true&width=1000&height=70&lines=%3E%3E%3E+BAKHODIRBEKOV;%3E%3E%3E+SYSTEM+BREACHED;%3E%3E%3E+ACCESS+GRANTED;%3E%3E%3E+FULL-STACK+DEVELOPER;%3E%3E%3E+CYBER+ARCHITECT;%3E%3E%3E+WELCOME+TO+THE+MATRIX" alt="Matrix Terminal"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2400&pause=600&color=FF00E6&center=true&vCenter=true&width=850&height=40&lines=Scanning+network...;Decrypting+developer+profile...;Initializing+core+modules...;Connection+secured...;System+online..." alt="System Animation"/>
+<!-- SECONDARY CYBERPUNK SCANNER -->
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=1800&pause=350&color=00FFF7&center=true&vCenter=true&width=850&height=40&lines=%5B%20SCANNING%20NETWORK...%20%5D;%5B%20DECRYPTING%20SOURCE...%20%5D;%5B%20BYPASSING%20FIREWALL...%20%5D;%5B%20CORE%20LOADED...%20%5D;%5B%20CONNECTION%20SECURE%20%5D" alt="Scanner"/>
 
 <br><br>
 
+<!-- STATUS HUD -->
+
+<img src="https://img.shields.io/badge/%5B%20SYSTEM%20%5D-ONLINE-00FF41?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/%5B%20FIREWALL%20%5D-ACTIVE-00FFF7?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/%5B%20SECURITY%20%5D-ENCRYPTED-FF00E6?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/%5B%20YEAR%20%5D-2098-FFFFFF?style=for-the-badge&labelColor=000000"/>
+
+<br><br>
+
+<!-- MAIN PORTAL BUTTONS -->
+
 <a href="https://github.com/Bakhodirbekov">
-<img src="https://img.shields.io/badge/GITHUB-ENTER%20THE%20GRID-00FFF7?style=for-the-badge&logo=github&logoColor=00FFF7&labelColor=020408"/>
+<img src="https://img.shields.io/badge/%5B%20ENTER_GITHUB%20%5D-00FF41?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000"/>
 </a>
 
 <a href="https://bot-e-commers.netlify.app">
-<img src="https://img.shields.io/badge/ONEBAZAR-LAUNCH%20SYSTEM-FF00E6?style=for-the-badge&logo=googlechrome&logoColor=FF00E6&labelColor=020408"/>
+<img src="https://img.shields.io/badge/%5B%20LAUNCH_ONEBAZAR%20%5D-FF00E6?style=for-the-badge&logo=googlechrome&logoColor=FF00E6&labelColor=000000"/>
 </a>
 
-<br><br>
-
-<img src="https://img.shields.io/badge/●%20SYSTEM-ONLINE-00FF88?style=flat-square&labelColor=020408"/>
-<img src="https://img.shields.io/badge/●%20SECURITY-ENCRYPTED-00FFF7?style=flat-square&labelColor=020408"/>
-<img src="https://img.shields.io/badge/●%20MODE-BUILD-FF00E6?style=flat-square&labelColor=020408"/>
-<img src="https://img.shields.io/badge/●%20YEAR-2098-FFFFFF?style=flat-square&labelColor=020408"/>
-
 </div>
 
 ---
 
-# `01 // SYSTEM IDENTITY`
-
 <div align="center">
 
-```text
-╔════════════════════════════════════════════════════════════╗
-║                    CYBER IDENTITY                        ║
-╠════════════════════════════════════════════════════════════╣
-║                                                            ║
-║  USER          :: BAKHODIRBEKOV                           ║
-║  ROLE          :: FULL-STACK DEVELOPER                    ║
-║  LOCATION      :: UZBEKISTAN                              ║
-║  STATUS        :: ● ONLINE                                ║
-║  SECURITY      :: ████████████████████████ 100%           ║
-║                                                            ║
-║  FRONTEND      :: REACT / NEXT.JS                         ║
-║  BACKEND       :: NODE.JS / PYTHON / LARAVEL             ║
-║  DATABASE      :: MYSQL / POSTGRESQL / MONGODB           ║
-║  AUTOMATION    :: TELEGRAM / API / BOTS                  ║
-║                                                            ║
-║  MISSION       :: BUILD / AUTOMATE / SCALE               ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
+## `╔══════════════════ MATRIX ACCESS POINT ══════════════════╗`
+
+```text id="7w6y1m"
+ ███╗   ███╗ █████╗ ████████╗██████╗ ██╗██╗  ██╗
+ ████╗ ████║██╔══██╗╚══██╔══╝██╔══██╗██║╚██╗██╔╝
+ ██╔████╔██║███████║   ██║   ██████╔╝██║ ╚███╔╝
+ ██║╚██╔╝██║██╔══██║   ██║   ██╔══██╗██║ ██╔██╗
+ ██║ ╚═╝ ██║██║  ██║   ██║   ██║  ██║██║██╔╝ ██╗
+ ╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝
+
+                 B A K H O D I R B E K O V
+
+          [ MATRIX NODE // DEVELOPER CORE ]
 ```
 
 </div>
 
-> `I don't just write code. I build systems.`
-
 ---
 
-# `02 // WHO_AM_I`
+# `01 // IDENTITY_CORE`
 
-```bash
-$ whoami
-Bakhodirbekov
+<table width="100%">
+<tr>
 
-$ role
-Full-Stack Developer
+<td width="55%" valign="top">
 
-$ focus
-Web Applications
-Automation
-APIs
-E-Commerce
-Telegram Bots
-Backend Systems
-
-$ current_mode
-BUILDING THE FUTURE...
-```
-
-### 🧠 Current Mission
-
-```text
-[+] Building modern web applications
-[+] Developing backend systems
-[+] Creating Telegram bots
-[+] Exploring AI & automation
-[+] Learning Docker / AWS
-[+] Designing scalable products
-```
-
----
-
-# `03 // TECH DNA`
-
-### FRONTEND
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,mui,javascript,typescript,figma&perline=10" alt="Frontend"/>
-
-</div>
-
-### BACKEND
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,php,laravel,mysql,postgresql,mongodb,firebase&perline=10" alt="Backend"/>
-
-</div>
-
-### TOOLS & SYSTEM
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,flutter,c,java&perline=9" alt="Tools"/>
-
-</div>
-
----
-
-# `04 // TERMINAL`
-
-```text
-┌──[ BAKHODIRBEKOV@CYBER-NODE ]
-└─$ ./boot_system.sh
-
-[+] Loading identity................. OK
-[+] Loading frontend engine.......... OK
-[+] Loading backend engine........... OK
-[+] Loading database engine.......... OK
-[+] Loading automation modules....... OK
-[+] Loading security layer........... OK
-[+] Establishing connection.......... OK
-[+] Synchronizing network............ OK
-
+```text id="x2f3b8"
 ╔════════════════════════════════════════════════════╗
-║                 ACCESS GRANTED                     ║
+║                  IDENTITY CORE                    ║
+╠════════════════════════════════════════════════════╣
 ║                                                    ║
-║  DEVELOPER CORE        :: ACTIVE                  ║
-║  NETWORK               :: SECURE                  ║
-║  SECURITY              :: ENABLED                 ║
-║  SYSTEM                :: ONLINE                  ║
-║  MODE                  :: BUILD                   ║
+║ USER        :: Bakhodirbekov                      ║
+║ ROLE        :: Full-Stack Developer               ║
+║ LOCATION    :: Uzbekistan                          ║
+║ STATUS      :: ONLINE                              ║
+║ MODE        :: BUILD                               ║
+║                                                    ║
+║ FRONTEND    :: React / Next.js                    ║
+║ BACKEND     :: Node.js / Python / Laravel         ║
+║ DATABASE    :: MySQL / PostgreSQL / MongoDB       ║
+║ AUTOMATION  :: Telegram / API / Bots              ║
+║                                                    ║
+║ MISSION     :: CREATE // AUTOMATE // SCALE         ║
 ║                                                    ║
 ╚════════════════════════════════════════════════════╝
 ```
 
+</td>
+
+<td width="45%" valign="top">
+
+```text id="1nqhmv"
+╔════════════════════════════════════════════╗
+║             SYSTEM TELEMETRY              ║
+╠════════════════════════════════════════════╣
+║                                            ║
+║ CPU CORE       ████████████████  92%      ║
+║ MEMORY         ██████████████    81%      ║
+║ NETWORK        ████████████████  97%      ║
+║ SECURITY       █████████████████ 100%     ║
+║ CODE ENGINE    ████████████████   94%     ║
+║                                            ║
+║ SIGNAL         >>> LOCKED                 ║
+║ CONNECTION     >>> SECURE                 ║
+║ FIREWALL       >>> ACTIVE                 ║
+║                                            ║
+╚════════════════════════════════════════════╝
+```
+
+</td>
+
+</tr>
+</table>
+
 ---
 
-# `05 // GITHUB MATRIX`
+# `02 // MATRIX_TERMINAL`
+
+```bash id="ih9hso"
+╭────────────────────────────────────────────────────────────╮
+│ BAKHODIRBEKOV@MATRIX:~$                                  │
+╰────────────────────────────────────────────────────────────╯
+
+$ whoami
+> Bakhodirbekov
+
+$ role
+> Full-Stack Developer
+
+$ mission
+> BUILD DIGITAL SYSTEMS
+
+$ environment
+> WEB / API / DATABASE / AUTOMATION / AI
+
+$ status
+> [████████████████████████████████] ONLINE
+
+$ security
+> [████████████████████████████████] ENCRYPTED
+
+$ next_mission
+> LOADING................................
+```
+
+---
+
+# `03 // MATRIX_PROTOCOL`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap,figma&perline=9"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,php,laravel,mysql,postgres,mongodb&perline=9"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,flutter,c,java&perline=9"/>
+
+</div>
+
+---
+
+# `04 // MATRIX_DATABASE`
 
 <div align="center">
 
 <table>
 <tr>
 
-<td align="center" width="25%">
+<td align="center">
 
-### ⚡ REPOSITORIES
+### `REPOSITORIES`
 
 # `42`
 
-PUBLIC
+`PUBLIC`
 
 </td>
 
-<td align="center" width="25%">
+<td align="center">
 
-### ⭐ STARS
+### `STARS`
 
 # `41`
 
-TOTAL
+`TOTAL`
 
 </td>
 
-<td align="center" width="25%">
+<td align="center">
 
-### 👁 FOLLOWERS
+### `FOLLOWERS`
 
 # `5`
 
-TOTAL
+`TOTAL`
 
 </td>
 
-<td align="center" width="25%">
+<td align="center">
 
-### 🌐 FOLLOWING
+### `FOLLOWING`
 
 # `8`
 
-TOTAL
+`TOTAL`
 
 </td>
 
@@ -211,83 +228,78 @@ TOTAL
 
 </div>
 
-```text
+```text id="iykg7h"
+          ┌──────────────── GITHUB NODE ────────────────┐
+
+          REPOSITORIES    [████████████████████] 42
+          STARS           [███████████████████ ] 41
+          FOLLOWERS       [███                 ] 5
+          FOLLOWING       [████                ] 8
+
+          NODE STATUS     :: ONLINE
+          SOURCE          :: PUBLIC
+          DEVELOPMENT     :: ACTIVE
+
+          └─────────────────────────────────────────────┘
+```
+
+<a href="https://github.com/Bakhodirbekov?tab=repositories">
+
+<img src="https://img.shields.io/badge/%3E%3E%20OPEN%20ALL%20REPOSITORIES-00FF41?style=for-the-badge&labelColor=000000"/>
+
+</a>
+
+---
+
+# `05 // GITHUB_ANALYTICS`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Bakhodirbekov&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=000000&title_color=00FF41&text_color=FFFFFF&icon_color=FF00E6" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bakhodirbekov&layout=compact&hide_border=true&bg_color=000000&title_color=00FFF7&text_color=FFFFFF" height="180"/>
+
+</div>
+
+---
+
+# `06 // CONTRIBUTION_ENGINE`
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bakhodirbekov&hide_border=true&background=000000&ring=00FF41&fire=FF00E6&currStreakLabel=00FFF7&sideLabels=FFFFFF&dates=00FF41" alt="Contribution Streak"/>
+
+</div>
+
+---
+
+# `07 // MATRIX_ACTIVITY`
+
+<div align="center">
+
+```text id="xkvh5f"
 ╔══════════════════════════════════════════════════════════╗
-║                    GITHUB CORE                          ║
+║                   CODE ACTIVITY GRID                   ║
 ╠══════════════════════════════════════════════════════════╣
 ║                                                          ║
-║  REPOSITORIES     ███████████████████████████  42       ║
-║  STARS            ██████████████████████████    41       ║
-║  FOLLOWERS        ███                            5       ║
+║  MON  ░░░▓▓██████▓▓░░▓████████▓░                       ║
+║  TUE  ░▓████▓░░▓██████████▓░░▓██                       ║
+║  WED  ░░▓▓████████▓▓░░████████████                     ║
+║  THU  ▓████████▓░░▓▓████████▓▓░░                      ║
+║  FRI  ░░██████▓▓████████████████                     ║
+║  SAT  ░▓▓████▓░░░▓██████▓░░▓████                     ║
+║  SUN  ░░▓████████████▓░░▓████████                     ║
 ║                                                          ║
-║  DEVELOPMENT      :: ACTIVE                            ║
-║  PROJECTS         :: BUILDING                          ║
-║  SOURCE           :: PUBLIC                            ║
+║  LEGEND :: ░ LOW  ▓ MEDIUM  █ HIGH                    ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-<p align="center">
-
-<a href="https://github.com/Bakhodirbekov?tab=repositories">
-<img src="https://img.shields.io/badge/%3E%3E%20VIEW%20ALL%20REPOSITORIES-00FFF7?style=for-the-badge&labelColor=020408"/>
-</a>
-
-</p>
-
----
-
-# `06 // DEVELOPMENT STATS`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Bakhodirbekov&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight" height="180" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bakhodirbekov&layout=compact&hide_border=true&theme=tokyonight" height="180" alt="Top Languages"/>
-
 </div>
 
 ---
 
-# `07 // ACTIVITY MONITOR`
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════════╗
-║                  ACTIVITY MONITOR                   ║
-╠══════════════════════════════════════════════════════╣
-║                                                      ║
-║  CODE              ████████████████████   ACTIVE    ║
-║  PROJECTS          ████████████████████   ACTIVE    ║
-║  WEB SYSTEMS       ██████████████████     ACTIVE    ║
-║  TELEGRAM BOTS     █████████████████      ACTIVE    ║
-║  AUTOMATION        ███████████████        BUILDING  ║
-║  DATABASE          █████████████████      ACTIVE    ║
-║                                                      ║
-║  CURRENT MODE                                      ║
-║  > BUILD                                             ║
-║  > TEST                                              ║
-║  > DEPLOY                                            ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-# `08 // CONTRIBUTION STREAK`
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bakhodirbekov&hide_border=true&theme=tokyonight" alt="Contribution Streak"/>
-
-</div>
-
----
-
-# `09 // ACHIEVEMENT MATRIX`
+# `08 // TROPHY_ARCHIVE`
 
 <div align="center">
 
@@ -297,124 +309,53 @@ TOTAL
 
 ---
 
-# `10 // NETWORK`
-
-<div align="center">
-
-<a href="https://github.com/Bakhodirbekov">
-<img src="https://img.shields.io/badge/GITHUB-CONNECTED-00FFF7?style=for-the-badge&logo=github&logoColor=00FFF7&labelColor=020408"/>
-</a>
-
-<a href="https://bot-e-commers.netlify.app">
-<img src="https://img.shields.io/badge/ONEBAZAR-ONLINE-FF00E6?style=for-the-badge&logo=googlechrome&logoColor=FF00E6&labelColor=020408"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════════╗
-║                    NETWORK NODES                    ║
-╠══════════════════════════════════════════════════════╣
-║                                                      ║
-║  [01] GITHUB        :: CONNECTED                    ║
-║  [02] ONEBAZAR      :: ONLINE                       ║
-║  [03] WEB SYSTEMS   :: ACTIVE                       ║
-║  [04] TELEGRAM      :: ACTIVE                       ║
-║                                                      ║
-║  ENCRYPTION         :: ENABLED                      ║
-║  FIREWALL           :: ACTIVE                       ║
-║  CONNECTION         :: SECURE                       ║
-║  NODE STATUS        :: ONLINE                       ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-# `11 // VISITOR SCANNER`
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════════╗
-║                  VISITOR SCANNER                    ║
-╠══════════════════════════════════════════════════════╣
-║                                                      ║
-║     ██████████████████████████████████               ║
-║                                                      ║
-║     > SCANNING CONNECTION...                        ║
-║     > VERIFYING VISITOR...                          ║
-║     > CHECKING ACCESS LEVEL...                      ║
-║     > ENCRYPTION VERIFIED                           ║
-║                                                      ║
-║                    ACCESS GRANTED ✓                  ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
-
-<img src="https://komarev.com/ghpvc/?username=Bakhodirbekov&label=PROFILE%20VISITS&color=00fff7&style=for-the-badge" alt="Profile Views"/>
-
-<br><br>
-
-```text
-[ VISITOR DETECTED ]
-[ CONNECTION LOGGED ]
-[ SIGNAL RECEIVED ]
-```
-
-</div>
-
----
-
-# `12 // ACTIVE MISSIONS`
+# `09 // ACTIVE_MISSIONS`
 
 <table width="100%">
 <tr>
 
 <td width="50%" valign="top">
 
-## 🛒 ONEBAZAR
-
-```text
-PROJECT     :: ONEBAZAR
-CATEGORY    :: E-COMMERCE
-PLATFORM    :: WEB
-STATUS      :: ONLINE
+```text id="7pp8nz"
+╔════════════════════════════════╗
+║          ONEBAZAR              ║
+╠════════════════════════════════╣
+║                                ║
+║ TYPE      :: E-COMMERCE        ║
+║ PLATFORM  :: WEB               ║
+║ STATUS    :: ONLINE            ║
+║ MODE      :: ACTIVE             ║
+║                                ║
+╚════════════════════════════════╝
 ```
 
-Bot orqali ishlaydigan e-commerce demo.
-
-<br>
+Bot-based e-commerce project.
 
 <a href="https://bot-e-commers.netlify.app">
-<img src="https://img.shields.io/badge/%3E%20LAUNCH%20ONEBAZAR-00FFF7?style=for-the-badge&labelColor=020408"/>
+<img src="https://img.shields.io/badge/%3E%3E%20LAUNCH-ONEBAZAR-00FF41?style=for-the-badge&labelColor=000000"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-## 💻 GITHUB CORE
-
-```text
-PROJECTS    :: 42
-STATUS      :: ACTIVE
-MODE        :: DEVELOPMENT
-SOURCE      :: PUBLIC
+```text id="tdj7s2"
+╔════════════════════════════════╗
+║        GITHUB CORE             ║
+╠════════════════════════════════╣
+║                                ║
+║ REPOSITORIES :: 42             ║
+║ STATUS       :: ACTIVE         ║
+║ MODE         :: DEVELOPMENT    ║
+║ SOURCE       :: PUBLIC         ║
+║                                ║
+╚════════════════════════════════╝
 ```
 
-Web, automation va boshqa dasturlash loyihalari.
-
-<br>
+Web, automation and development projects.
 
 <a href="https://github.com/Bakhodirbekov?tab=repositories">
-<img src="https://img.shields.io/badge/%3E%20OPEN%20PROJECTS-FF00E6?style=for-the-badge&labelColor=020408"/>
+<img src="https://img.shields.io/badge/%3E%3E%20ENTER-GITHUB-FF00E6?style=for-the-badge&labelColor=000000"/>
 </a>
 
 </td>
@@ -424,86 +365,142 @@ Web, automation va boshqa dasturlash loyihalari.
 
 ---
 
-# `13 // DEVELOPMENT AREAS`
+# `10 // NETWORK_GATEWAY`
 
 <div align="center">
 
-| SYSTEM          |        STATUS        |
-| :-------------- | :------------------: |
-| Frontend        | `██████████████████` |
-| Backend         | `██████████████████` |
-| Telegram Bots   |  `████████████████`  |
-| E-Commerce      |   `██████████████`   |
-| API Development |   `██████████████`   |
-| Automation      |    `████████████`    |
-| Database        |    `████████████`    |
-| DevOps          |     `██████████`     |
-
-</div>
-
----
-
-# `14 // SYSTEM LOG`
-
-```text
-[2098-01-01 00:00:01] Boot sequence initiated
-[2098-01-01 00:00:02] Developer identity detected
-[2098-01-01 00:00:03] Frontend engine loaded
-[2098-01-01 00:00:04] Backend engine loaded
-[2098-01-01 00:00:05] Database connected
-[2098-01-01 00:00:06] Telegram modules loaded
-[2098-01-01 00:00:07] Automation protocol initialized
-[2098-01-01 00:00:08] Security layer enabled
-[2098-01-01 00:00:09] GitHub network connected
-[2098-01-01 00:00:10] CYBER NODE ONLINE
-[2098-01-01 00:00:11] Waiting for next mission...
+```text id="1xp8dy"
+                ┌─────────────────────────┐
+                │       MATRIX NODE       │
+                └────────────┬────────────┘
+                             │
+             ┌───────────────┼───────────────┐
+             │               │               │
+             ▼               ▼               ▼
+        ┌─────────┐     ┌─────────┐    ┌──────────┐
+        │ GITHUB  │     │ ONEBAZAR│    │  WEB/API │
+        │ ONLINE  │     │ ONLINE  │    │  ONLINE  │
+        └─────────┘     └─────────┘    └──────────┘
+             │               │               │
+             └───────────────┼───────────────┘
+                             │
+                      [ ENCRYPTED ]
 ```
 
----
-
-# `15 // CONTACT PROTOCOL`
-
-<div align="center">
-
-<a href="https://github.com/Bakhodirbekov">
-<img src="https://img.shields.io/badge/GITHUB-CONNECT-00FFF7?style=for-the-badge&logo=github&logoColor=00FFF7&labelColor=020408"/>
-</a>
-
-<a href="https://bot-e-commers.netlify.app">
-<img src="https://img.shields.io/badge/ONEBAZAR-CONNECT-FF00E6?style=for-the-badge&logo=googlechrome&logoColor=FF00E6&labelColor=020408"/>
-</a>
-
 </div>
 
 ---
 
+# `11 // VISITOR_SCAN`
+
 <div align="center">
 
-```text
-╔════════════════════════════════════════════════════════╗
-║                                                        ║
-║                 DIGITAL TRANSMISSION                  ║
-║                                                        ║
-║   SYSTEM       :: ONLINE                              ║
-║   FIREWALL     :: ACTIVE                              ║
-║   SIGNAL       :: LOCKED                              ║
-║   DEVELOPER    :: BAKHODIRBEKOV                      ║
-║                                                        ║
-║   > KEEP BUILDING                                      ║
-║   > KEEP LEARNING                                      ║
-║   > KEEP SHIPPING                                      ║
-║                                                        ║
-╚════════════════════════════════════════════════════════╝
+```text id="y6h0j9"
+╔══════════════════════════════════════════════════════════╗
+║                    VISITOR SCANNER                     ║
+╠══════════════════════════════════════════════════════════╣
+║                                                          ║
+║  > SIGNAL DETECTED                                      ║
+║  > SCANNING...                                          ║
+║  > IDENTIFYING VISITOR...                               ║
+║  > VERIFYING CONNECTION...                              ║
+║  > FIREWALL CHECK................................ OK    ║
+║  > ENCRYPTION CHECK............................... OK    ║
+║                                                          ║
+║              ██████████████████████████                  ║
+║                                                          ║
+║                ACCESS GRANTED ✓                         ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=2200&pause=700&color=00FFF7&center=true&vCenter=true&width=800&height=40&lines=%3E+SYSTEM+STATUS%3A+ONLINE;%3E+SECURITY%3A+ACTIVE;%3E+NEXT+MISSION%3A+LOADING...;%3E+SEE+YOU+IN+THE+MATRIX+%E2%9A%A1" alt="Footer Animation"/>
+<img src="https://komarev.com/ghpvc/?username=Bakhodirbekov&label=MATRIX%20VISITORS&color=00ff41&style=for-the-badge" alt="Visitors"/>
+
+</div>
+
+---
+
+# `12 // SYSTEM_LOG`
+
+```text id="bp4g5r"
+[ SYSTEM ] boot sequence started............... OK
+[ CORE   ] developer module..................... OK
+[ NET    ] connection established............... OK
+[ FIREW ] firewall enabled...................... OK
+[ DB     ] database modules.................... OK
+[ BOT    ] automation engine................... OK
+[ WEB    ] frontend engine..................... OK
+[ API    ] backend services.................... OK
+[ CODE   ] source engine........................ OK
+[ SECURE ] encrypted session................... OK
+
+>>> ALL SYSTEMS OPERATIONAL
+>>> WAITING FOR NEXT MISSION
+```
+
+---
+
+# `13 // DEVELOPMENT_TARGETS`
+
+<div align="center">
+
+```text id="1j1b7i"
+╔════════════════════════════════════════════════╗
+║              DEVELOPMENT TARGETS              ║
+╠════════════════════════════════════════════════╣
+║                                                ║
+║  FRONTEND       ████████████████████  ACTIVE   ║
+║  BACKEND        ████████████████████  ACTIVE   ║
+║  API            ██████████████████    ACTIVE   ║
+║  TELEGRAM       █████████████████     ACTIVE   ║
+║  AUTOMATION     ███████████████       BUILD    ║
+║  DATABASE       ████████████████      ACTIVE   ║
+║  AI             ████████████          LEARNING ║
+║  DEVOPS         ███████████           BUILD    ║
+║                                                ║
+╚════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+# `14 // CONNECTION_PROTOCOL`
+
+<div align="center">
+
+<a href="https://github.com/Bakhodirbekov">
+<img src="https://img.shields.io/badge/%5B%20GITHUB%20%5D-00FF41?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000"/>
+</a>
+
+<a href="https://bot-e-commers.netlify.app">
+<img src="https://img.shields.io/badge/%5B%20ONEBAZAR%20%5D-FF00E6?style=for-the-badge&logo=googlechrome&logoColor=FF00E6&labelColor=000000"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+# `>>> SYSTEM MESSAGE <<<`
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=16&duration=1800&pause=500&color=00FF41&center=true&vCenter=true&width=900&height=50&lines=%3E%3E%3E+THE+MATRIX+IS+WATCHING;%3E%3E%3E+KEEP+BUILDING;%3E%3E%3E+KEEP+LEARNING;%3E%3E%3E+KEEP+SHIPPING;%3E%3E%3E+NEXT+MISSION+LOADING..." alt="System Message"/>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:020408,50:07111C,100:FF00E6&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:000000,40:001100,70:003300,100:FF00E6&animation=twinkling" width="100%"/>
 
-<sub>Made with ⚡ by Bakhodirbekov // CYBER NODE 2098</sub>
+<br>
+
+`[ CONNECTION TERMINATED ]`
+`[ SIGNAL LOST ]`
+`[ SEE YOU IN THE MATRIX ]`
+
+<br><br>
+
+<sub>⚡ BAKHODIRBEKOV // CYBER NODE 2098</sub>
 
 </div>
